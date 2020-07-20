@@ -5,7 +5,7 @@ const Heading = () =>{
     return(
         <div className="heading">
             <h1>
-                The Ultimate Recipe app
+                Q8KoKOOU!!
             </h1>
         </div>
     )
