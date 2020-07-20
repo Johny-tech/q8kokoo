@@ -44,7 +44,7 @@ const App = ()=>{
             <div className="App">
                 <Heading />
                 <form className="search-form" onSubmit={updatequery}>
-                    <input className="serach-bar" type="text" value={search} onChange={updateSearch} placeholder="Search here  e.g:- paneer , chicken , puddings etc" />
+                    <input className="serach-bar" type="text" value={search} onChange={updateSearch} placeholder="Search here something" />
                     <input type="submit" value="Search" />
                 </form>
                 <div className="recipies">
