@@ -88,7 +88,7 @@ input[type='submit']:hover{
     width: 80%;
     margin-top: 2%;
     border-radius: 10px;
-    background:linear-gradient(90deg, rgba(54,217,182,1) 0%, rgba(32,152,126,1) 43%, rgba(0,212,255,1) 100%);;
+    background: rgb(54,217,182);
     cursor: pointer;
     transition: 1s;
     justify-content: center;
